@@ -1,6 +1,1 @@
-var meals = {
-  breakfast: 'eggs',
-  breakfast: 'bacon'
-}
-
-connsole.log(meals);
+var playlist = {
