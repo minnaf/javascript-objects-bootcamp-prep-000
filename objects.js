@@ -5,5 +5,3 @@ function updatePlaylist(playlist, artistName, song){
   return playlist
   
 }
-
-function 
