@@ -1,1 +1,7 @@
-var playlist = {thirdEyeBlind: 'semiCharmedLife', }
+var playlist = {thirdEyeBlind: 'semiCharmedLife' }
+
+function updatePlaylist(playlist, artistName, song){
+  playlist = {artistName: song};
+  return playlist
+  
+}
